@@ -21,7 +21,10 @@ parts 13 to 23 will be presented in the afternoon (approximately)
 
 The 2-part tutorial will be held on Tuesday, July 10, 2018.
 
+Recorded videos from the SciPy 2018 conference are provided below
 
+* [Part 1](https://www.youtube.com/watch?v=4PXAztQtoTg)
+* [Part 2](https://www.youtube.com/watch?v=gK43gtGh49o)
 
 Obtaining the Tutorial Material
 --------------------------------
